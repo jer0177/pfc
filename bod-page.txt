@@ -1,0 +1,181 @@
+<style>
+
+.wrapper {
+display: grid;
+grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+grid-gap: 10px;
+background-color: #fff;
+color: #444;
+margin:30px;
+}
+
+.bmember {
+background-color: #444;
+color: #fff;
+border-radius: 5px;
+padding: 20px;
+
+}
+
+.bmember img{
+ border: 1px solid #cccccc;
+ width: 55px;
+ border-radius:20px;
+}
+
+.bmember a:link{
+  color:white;
+  font-style:normal;
+} 
+
+.bmember a:visited{
+  color:white;
+  font-style:normal;
+}
+
+.bmember a:active{
+  color:white;
+  font-weight:bold;
+}
+
+.bmember{
+  font-style:normal;
+  list-style-type:none;
+}
+</style>
+
+<div class=wrapper>
+
+<div class=bmember>
+ <center>
+  <a href="dana_morganroth">
+   <img src="resources/Pictures/Site Assets/BOD_Images/hs_Dana_Morganroth.jpg" alt="Dana Morganroth" />
+   <br>Dana Morganroth
+   <br>President and Chair
+  </a>
+ </center>
+</div>
+
+<div class=bmember>
+ <center>
+  <a href="liz_hrenda">
+   <img src="resources/Pictures/Site Assets/BOD_Images/hs_Liz_Hrenda.jpg" alt="Liz Hrenda" />
+   <br>Liz Hrenda
+   <br>Vice-President
+  </a>
+ </center>
+</div>
+
+<div class=bmember>
+ <center>
+  <a href="jacki_richey">
+   <img src="resources/Pictures/Site Assets/BOD_Images/jacki_richey.jpg" alt="Jacki Richey" />
+   <br>Jacki Richey
+   <br>Treasurer
+   </a>
+ </center>
+</div>
+
+<div class=bmember>
+ <center>
+  <a href="victor_bernard">
+   <img src="resources/Pictures/Site Assets/BOD_Images/hs_victor_bernard.jpg" alt="Victor Bernard" />
+   <br>Victor Bernard
+   <br>Secretary
+  </a>
+ </center>
+</div>
+
+<div class=bmember>
+ <center>
+  <a href="ws_kaszycki">
+   <img src="resources/Pictures/Site Assets/BOD_Images/hs_Bill_K.jpg" alt="W.S. (Bill) Kaszycki" />
+   <br>W.S. (Bill) Kaszycki
+   <br>Immediate Past President
+  </a>
+ </center>
+</div>
+
+<div class=bmember>
+ <center>
+  <a href="eric_ruben">
+   <img src="resources/Pictures/Site Assets/BOD_Images/eruben.jpg" alt="Eric Ruben" />
+   <br>Eric Ruben
+  </a>
+ </center>
+</div>
+
+<div class=bmember>
+ <center>
+  <a href="david_balint">
+   <img src="resources/Pictures/Site Assets/BOD_Images/hs_image.jpg" alt="David Balint" />
+   <br>David Balint
+  </a>
+ </center>
+</div>
+
+<div class=bmember>
+ <center>
+  <a href="theron_gilliland_jr">
+   <img src="resources/Pictures/Site Assets/BOD_Images/hs_theron_gilliland_jr.jpg" alt="Theron Gilliland, Jr." />
+   <br>Theron Gilliland, Jr.
+  </a>
+ </center>
+</div>
+
+<div class=bmember>
+ <center>
+  <a href="stephen_hirtle">
+   <img src="resources/Pictures/Site Assets/BOD_Images/hirtle.jpg" alt="Stephen Hirtle Ph.D." />
+   <br>Stephen Hirtle Ph.D.
+  </a>
+ </center>
+</div>
+
+<div class=bmember>
+ <center>
+  <a href="john_hooper_phd">
+   <img src="resources/Pictures/Site Assets/BOD_Images/hs_John_Hooper.jpg" alt="John Hooper Ph.D." />
+   <br>John Hooper Ph.D.
+  </a>
+ </center>
+</div>
+
+
+<div class=bmember>
+ <center>
+  <a href="andy_norman_phd">
+   <img src="resources/Pictures/Site Assets/BOD_Images/hs_Andy_Norman.jpg" alt="Andy Norman Ph.D." />
+   <br>Andy Norman Ph.D.
+  </a>
+ </center>
+</div>
+
+<div class=bmember>
+ <center>
+  <a href="ann_norman">
+   <img src="resources/Pictures/Site Assets/BOD_Images/hs_Ann_Norman.jpg" alt="Ann Norman" />
+   <br>Ann Norman
+  </a>
+ </center>
+</div>
+
+<div class=bmember>
+ <center>
+  <a href="jeff_prebeg">
+   <img src="resources/Pictures/Site Assets/BOD_Images/jeff_prebeg.jpg" alt="Jeff Prebeg" />
+   <br>Jeff Prebeg
+  </a>
+ </center>
+</div>
+
+<div class=bmember>
+ <center>
+  <a href="marie_schaub">
+   <img src="resources/Pictures/Site Assets/BOD_Images/hs_Marie_Schaub.jpg" alt="Marie Schaub" />
+   <br>Marie Schaub
+  </a>
+ </center>
+</div>
+
+</div>
