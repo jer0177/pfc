@@ -1,0 +1,17 @@
+<style>
+.copyright{
+color:white;
+}
+
+.copyright a:link, .copyright a:visited {
+  color:white;
+  font-style:normal;
+ }
+</style>
+
+<span class="copyright">
+&copy; 2018 Pittsburgh Freethought Community, a 501(c)(3) non-profit, All Rights Reserved | 
+</span>
+<span class="copyright">
+<a href="/privacy-policy" target="_blank">Privacy Policy</a>
+</span>
