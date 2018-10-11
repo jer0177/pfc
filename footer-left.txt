@@ -1,0 +1,26 @@
+<style>
+ .social-media{
+   display:inline;
+   padding:10px;
+ }
+.social-links{
+display:inline-block;
+}
+</style> 
+
+<div class="logo">
+  <a href="/"><center><img src="/resources/pictures/pfc%20logos/LG logo with white stroke and white text transparent bkg 283.png" alt="PFC Logo" height="100"></center></a>
+ </div>
+
+ <center><div class="social-links">
+
+  <div class="social-media"><a href-"https://www.facebook.com/PghFTC"><img src="/resources/pictures/site%20assets/social_icon/facebook_icon_trans.png" alt="Facebook" height="30px"></a></div> <!-- facebook -->
+
+  <div class="social-media"><a href-"https://www.instagram.com/pgh_fc/"><img src="/resources/pictures/site%20assets/social_icon/instagram.png" alt="Instagram" height="30px"></a></div> <!-- Instagram -->
+
+  <div class="social-media"><a href-"https://www.meetup.com/Pittsburgh-Freethought-Community/"><img src="/resources/pictures/site%20assets/social_icon/meetup_icon_trans.png" alt="Meetup" height="30px"></a></div> <!-- meetup -->
+
+  <div class="social-media"><a href-"https://twitter.com/pgh_fc"><img src="/resources/pictures/site%20assets/social_icon/twitter-download-png.png" alt="Twitter" height="30px"></a></div> <!-- twitter -->
+
+ </div>
+</center>
